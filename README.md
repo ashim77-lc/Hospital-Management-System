@@ -3,7 +3,7 @@
 A web-based Hospital Management System built with Python Flask, SQLite, and Bootstrap 5.
 
 ## 🚀 Live Demo
-[[Coming soon - PythonAnywhere]](https://ashimcodes.pythonanywhere.com/)
+[[PythonAnywhere]](https://ashimcodes.pythonanywhere.com/)
 
 ## ✨ Features
 - Secure login/register with password hashing (Werkzeug)
